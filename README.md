@@ -1,46 +1,50 @@
 ## Olá, eu sou o Wender 👋
 
-Formado em **Análise e Desenvolvimento de Sistemas**, com mais de 6 anos na área comercial,
-em atendimento consultivo e pós-venda. Meu foco é **implantação de sistemas**: entender o
-processo de uma empresa, transformar isso em requisitos e regras de negócio, construir a
-solução e colocar no ar com a equipe usando no dia a dia.
+Trabalho com **implantação de sistemas e levantamento de requisitos**. São mais de 6 anos na
+área comercial, em atendimento consultivo e pós-venda, e formação em Análise e
+Desenvolvimento de Sistemas.
 
-Desenvolvo com **Kotlin, Spring Boot, React e TypeScript**, com o Claude Code como ferramenta
-para prototipar e entregar rápido. As regras de negócio ficam garantidas por testes
-automatizados.
+Meu trabalho começa no processo da empresa: converso com quem vende, produz, instala e
+decide; descubro onde o trabalho trava; documento requisitos, regras de negócio e
+indicadores; e acompanho a implantação até a equipe usar o sistema no dia a dia. Para
+construir as soluções, uso IA (Claude Code), com as regras validadas por testes automatizados.
 
 📍 Curitiba – PR · 💼 [LinkedIn](https://www.linkedin.com/in/wenderoliveira)
 
 ---
 
-### Projetos em produção
+### Sistemas que levantei e implantei
 
 #### [RastrOS](https://github.com/wender95/rastros): rastreio de ordens de serviço e agenda de instalação
-Sistema web usado todo dia por uma empresa de comunicação visual desde set/2026. Cada OS anda
-de setor em setor com histórico imutável; a agenda dos instaladores substituiu a planilha; o
-painel mostra ao vivo o que cada um está fazendo. Importa a OS do ERP com um clique, por uma
-extensão de navegador.
-`Kotlin` `Spring Boot` `React` `TypeScript` `PostgreSQL/H2` `Flyway` `JWT` `SSE` `Cloudflare Tunnel` · 250 testes automatizados
+**Empresa de comunicação visual · em uso diário desde set/2026**
+
+Ninguém sabia onde estava cada pedido, o tempo parado na fila se misturava com o tempo de
+trabalho e a agenda dos instaladores vivia numa planilha. Mapeei o processo com comercial,
+financeiro, produção e diretoria, documentei a matriz de transição entre setores e os
+indicadores antes de construir, e implantei com 5 perfis de acesso, versão de celular para
+os instaladores e importação da OS direto do ERP.
 
 <a href="https://github.com/wender95/rastros"><img src="https://raw.githubusercontent.com/wender95/rastros/main/docs/imagens/painel.png" width="640" alt="Painel do RastrOS"></a>
 
-#### [Agenda StetPar](https://github.com/wender95/agenda-stetpar): agenda e gestão financeira para estética automotiva
-Agenda do mês com arrastar e soltar, sincronizada ao vivo entre as telas, financeiro por dia,
-mês e ano, caixa e contas a pagar parceladas. Preparada para ser vendida como produto: backup
-automático, limite de tentativas de senha e testada com 10 anos de dados gerados.
-`Kotlin` `Spring Boot` `React` `TypeScript` `H2` `SSE` · 120+ testes automatizados
+#### [Agenda para estética automotiva](https://github.com/wender95/agenda-estetica-automotiva)
+**Em produção · preparada para ser vendida como produto**
 
-<a href="https://github.com/wender95/agenda-stetpar"><img src="https://raw.githubusercontent.com/wender95/agenda-stetpar/main/imagens/agenda.png" width="640" alt="Agenda StetPar"></a>
+A agenda era caderno e planilha, e o fechamento do mês era feito na mão. Levantei como a
+agenda e o dinheiro circulavam na loja e entreguei agenda compartilhada em tempo real,
+financeiro por dia, mês e ano, caixa e contas a pagar, com permissões que o próprio dono
+configura.
 
-#### [Caderno de Pedidos](https://github.com/wender95/caderno-de-pedidos): app Android de pedidos e estoque
-Para quem vende doces sob encomenda: lança pedidos por cliente, controla o estoque e cobra no
-fim do mês, com pagamento parcial e cobrança pelo WhatsApp. Dois celulares compartilham o
-mesmo estoque em tempo real e o app funciona sem internet.
-`Android` `JavaScript` `Firebase Auth` `Cloud Firestore`
+<a href="https://github.com/wender95/agenda-estetica-automotiva"><img src="https://raw.githubusercontent.com/wender95/agenda-estetica-automotiva/main/imagens/agenda.png" width="640" alt="Agenda para estética automotiva"></a>
+
+#### [Caderno de Pedidos](https://github.com/wender95/caderno-de-pedidos): pedidos e estoque no celular
+**Em uso por uma vendedora de doces**
+
+Trocou o caderno de papel: pedidos por cliente em três toques, estoque compartilhado entre
+dois celulares, cobrança do mês pronta para mandar no WhatsApp. Funciona sem internet.
 
 ---
 
-### Ferramentas
+### O que eu faço
 
-`Kotlin` `Java` `Spring Boot` `React` `TypeScript` `SQL` `PostgreSQL` `Flyway` `REST` `JWT`
-`JUnit` `Vitest` `Firebase` `Git` `Cloudflare` `Claude Code`
+`Levantamento de requisitos` `Mapeamento de processos` `Regras de negócio` `Indicadores (KPIs)`
+`Implantação e treinamento` `Suporte ao usuário` `Customer Success` `Pré-vendas`
