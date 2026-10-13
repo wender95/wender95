@@ -15,8 +15,10 @@ construir as soluções, uso IA (Claude Code), com as regras validadas por teste
 
 ### Sistemas que levantei e implantei
 
+Três sistemas feitos sob demanda, dois deles em uso real hoje.
+
 #### [RastrOS](https://github.com/wender95/rastros): rastreio de ordens de serviço e agenda de instalação
-**Empresa de comunicação visual · em uso diário desde set/2026**
+**Para uma empresa de comunicação visual**
 
 Ninguém sabia onde estava cada pedido, o tempo parado na fila se misturava com o tempo de
 trabalho e a agenda dos instaladores vivia numa planilha. Mapeei o processo com comercial,
@@ -27,7 +29,7 @@ os instaladores e importação da OS direto do ERP.
 <a href="https://github.com/wender95/rastros"><img src="https://raw.githubusercontent.com/wender95/rastros/main/docs/imagens/painel.png" width="640" alt="Painel do RastrOS"></a>
 
 #### [Agenda para estética automotiva](https://github.com/wender95/agenda-estetica-automotiva)
-**Em produção · preparada para ser vendida como produto**
+**Preparada para ser vendida como produto**
 
 A agenda era caderno e planilha, e o fechamento do mês era feito na mão. Levantei como a
 agenda e o dinheiro circulavam na loja e entreguei agenda compartilhada em tempo real,
@@ -37,7 +39,7 @@ configura.
 <a href="https://github.com/wender95/agenda-estetica-automotiva"><img src="https://raw.githubusercontent.com/wender95/agenda-estetica-automotiva/main/imagens/agenda.png" width="640" alt="Agenda para estética automotiva"></a>
 
 #### [Caderno de Pedidos](https://github.com/wender95/caderno-de-pedidos): pedidos e estoque no celular
-**Em uso por uma vendedora de doces**
+**Para uma vendedora de doces**
 
 Trocou o caderno de papel: pedidos por cliente em três toques, estoque compartilhado entre
 dois celulares, cobrança do mês pronta para mandar no WhatsApp. Funciona sem internet.
